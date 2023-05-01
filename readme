@@ -1,0 +1,3 @@
+Install Node modules by command >. npm i
+install mongodb and connect it with nodejs server.
+start the server using command > npm run start 
